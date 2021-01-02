@@ -1,0 +1,32 @@
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.deps.json
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.dll
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\bin\Debug\netstandard2.1\ref\LGRM.dll
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.pdb
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.Data.dll
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.Model.dll
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.Data.pdb
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.Model.pdb
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\Styles\Colors.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.csproj.CopyComplete
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.dll
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\ref\LGRM.dll
+C:\Users\ScumS\source\repos\LGRM v2.7\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.pdb
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.dll
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\obj\Debug\netstandard2.1\ref\LGRM.dll
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\obj\Debug\netstandard2.1\LGRM.pdb
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.deps.json
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.dll
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\bin\Debug\netstandard2.1\ref\LGRM.dll
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\bin\Debug\netstandard2.1\LGRM.pdb
+C:\Users\ScumS\source\repos\LGRM 210102 test selection\LGRM\LGRM\obj\Debug\netstandard2.1\XamlC.stamp
