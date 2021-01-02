@@ -16,8 +16,8 @@ namespace LGRM
                 SelectionMode = SelectionMode.Multiple,                
 
             };
-            cvGroceries.SetBinding(CollectionView.ItemsSourceProperty, "AllInventory");
-            cvGroceries.SetBinding(CollectionView.SelectedItemsProperty, "MySelectedItems");
+            cvGroceries.SetBinding(CollectionView.ItemsSourceProperty, "MyInventory");
+            cvGroceries.SetBinding(CollectionView.SelectedItemsProperty, "MySelectedItems", BindingMode.TwoWay);
             cvGroceries.SetBinding(CollectionView.SelectionChangedCommandProperty, "MySelectionChangedCommand");
 
 
